@@ -1,3 +1,7 @@
 print("hello")
 print("pulkit")
-print("ravi")
+
+
+
+for i in range(10):
+    print(i)
